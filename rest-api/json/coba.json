@@ -1,0 +1,11 @@
+{
+  "nama": "Diki Armanda",
+  "umur": 25,
+  "nim": "201080200001",
+  "lulus": true,
+  "hobi": ["mancing", "belajar", "membaca"],
+  "pembimbing": {
+    "pembimbing1": "Rohman Dijaya",
+    "pembimbing2": "Cindy Trausta"
+  }
+}
